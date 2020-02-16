@@ -1,10 +1,9 @@
 
 /**********************
 @File Name	: edf.h
-@Description: 	: Scheduling Tasks based on EDF policy
-@Author		: Deepesh Sonigra 
+@Description: 	: Scheduling Tasks based on RMA policy
 @Date		: 02/15/2020
-@reference 	:  https://embeddedbhavesh.wordpress.com/2015/10/04/earliest-deadline-first-edf-scheduling-in-c/   
+@reference	: feasibility_tests.c Prof. Sam Siewerts 
 *******************/
 
 

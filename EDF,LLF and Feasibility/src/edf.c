@@ -17,9 +17,6 @@
 #define U32_T unsigned int 
 
 
-
-
-
 /*
 @description: calculates the greatest common divisor
 @return     : returns the gcd 

@@ -1,8 +1,11 @@
 
-/**
+/**********************
+@File Name	: feasibility_tests.c
+@Description: 	: Scheduling Tasks based on different policies (RMA,EDF,LLF)
+@Date		: 02/15/2020
 @reference https://github.com/jabezwinston/Earliest_Deadline_First/blob/master/func_def.c
-**/
 
+*******************/
 
 #include<stdio.h>
 #include<math.h>
